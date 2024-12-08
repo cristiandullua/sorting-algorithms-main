@@ -6,7 +6,7 @@ The primary goal of this project is to deepen understanding and expertise as a s
 
 For a detailed demonstration and walkthrough of the code showcasing TypeScript syntax and sorting algorithms, please refer to the following YouTube video:
 
-[Software Demo Video](https://www.loom.com/share/78edd276a6a74181a826815fc1dd3cfa?sid=6fa88861-cd34-4916-87b5-cf700daef925)
+[Software Demo Video](https://www.youtube.com/watch?v=8j5nK_AWvMk)
 
 # Development Environment
 
